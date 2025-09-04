@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bijan 👋
 
-<!--
-**bijan-pradhananga/bijan-pradhananga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a fullstack developer passionate about **Web Development**, **Machine Learning**, and **Problem Solving**.  
+💡 I enjoy building real-world projects that solve meaningful problems.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Languages:** JavaScript (ES6+), TypeScript, Python, Java, C#  
+- **Frameworks & Libraries:** React, Next.js, ASP.NET MVC, Redux Toolkit  
+- **Databases:** SQL, MongoDB  
+- **Other:** Git/GitHub, REST APIs, Authentication (Auth0, NextAuth), Machine Learning (scikit-learn, Pandas, NumPy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced **Machine Learning** techniques for prediction systems  
+- **Full-stack development** with Next.js & Node.js  
+- **Cloud deployment** 
+
+## 📊 GitHub Stats
+![Bijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- 🌐 Portfolio: [my-portfolio](https://portfolio-client-gamma-plum.vercel.app)  
+- 💼 LinkedIn: [link](https://www.linkedin.com/in/bijan-pradhananga-947b992ab/)
+- ✉️ Email: bijan2059@gmail.com 
