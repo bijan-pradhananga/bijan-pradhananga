@@ -14,10 +14,7 @@
 - **Full-stack development** with Next.js & Node.js  
 - **Cloud deployment** 
 
-## 📊 GitHub Stats
-![Bijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
-- 🌐 Portfolio: [my-portfolio](https://portfolio-client-gamma-plum.vercel.app)  
-- 💼 LinkedIn: [link](https://www.linkedin.com/in/bijan-pradhananga-947b992ab/)
+- 🌐 Portfolio: [https://portfolio-client-gamma-plum.vercel.app](https://portfolio-client-gamma-plum.vercel.app)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/bijan-pradhananga-947b992ab/](https://www.linkedin.com/in/bijan-pradhananga-947b992ab/)
 - ✉️ Email: bijan2059@gmail.com 
