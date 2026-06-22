@@ -1,5 +1,9 @@
-# 💫 About Me:
-🚀 I’m a fullstack developer passionate about Web Development, Machine Learning, and Problem Solving.<br>💡 I enjoy building real-world projects that solve meaningful problems.
+# 💫 About Me
+
+🚀 I’m a Full Stack Developer passionate about building scalable web applications, exploring Machine Learning, and solving real-world problems through code.
+💡 I enjoy turning ideas into practical products using modern web technologies and clean architecture.
+🧠 I’m also continuously learning system design, backend engineering, and AI/ML concepts to improve my development skills.
+
 
 
 ## 🌐 Let's Connect
