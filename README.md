@@ -67,12 +67,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
  
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=bijan-pradhananga&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bijan-pradhananga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=bijan-pradhananga&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats
 
@@ -86,11 +80,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bijan-pradhananga\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=8)
-
----
 
 ## 📈 Contribution Graph
 
@@ -106,9 +95,4 @@
 
 ---
 
-## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=bijan-pradhananga\&icon=5\&color=6)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
