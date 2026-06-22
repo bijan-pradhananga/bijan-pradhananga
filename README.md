@@ -74,4 +74,41 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bijan-pradhananga&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijan-pradhananga\&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api?username=bijan-pradhananga\&theme=github_dark\&show_icons=true\&hide_border=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=bijan-pradhananga\&theme=github-dark-blue\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bijan-pradhananga\&theme=github_dark\&hide_border=true\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bijan-pradhananga\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=8)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=bijan-pradhananga\&theme=github-dark\&hide_border=true)
+
+---
+
+## 🚀 Coding Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bijan-pradhananga\&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijan-pradhananga\&theme=github_dark)
+
+---
+
+## 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=bijan-pradhananga\&icon=5\&color=6)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
